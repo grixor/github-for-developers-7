@@ -1,6 +1,7 @@
  ### My bio
  
- - [ ] Trang Le
- - [ ] Vietnam
- - [ ] Pho
- - [ ] Wakeboarding
+ - [ ] Name: Trang Le
+ - [ ] From: Vietnam
+ - [ ] Favorite food: Pho
+ - [ ] Hobby: Wakeboarding
+ - [ ] Favorite colour: gray
