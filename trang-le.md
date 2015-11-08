@@ -5,3 +5,4 @@
  - [ ] Favorite food: Pho
  - [ ] Hobby: Wakeboarding
  - [ ] Favorite colour: gray
+ - [ ] Favorite city: San Francisco
